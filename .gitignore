@@ -1,0 +1,8 @@
+bin/*
+obj/*
+resources/*
+erase_control_files.bat
+main.o
+*.cbp
+*.depend
+*.layout
