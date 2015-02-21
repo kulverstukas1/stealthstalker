@@ -1,5 +1,4 @@
-# stealthstalker
-StealthStalker
+# StealthStalker
 
 This was my first real/big c++ project. Keep in mind it isn’t complete and might not be working in some weird and rare cases but as far as I have tested it never failed.
 Ok, so feature list? yeah sure. It doesn’t have too much of them, currently it will steal:
