@@ -12,5 +12,6 @@ Ok, so feature list? yeah sure. It doesn’t have too much of them, currently it
     Saves data locally – can be run from flash drive
 
 When the data is stolen it will be written to a folder structure like so: CURRENT_USER/DATE-TIME/*
+The example PHP script to receive data can be found here: http://9v.lt/projects/C/StealthStalker/receive_data.php_
 
 More information: http://9v.lt/blog/stealthstalker-malware-c/
